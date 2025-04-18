@@ -1,0 +1,10 @@
+{
+  "name": "Auto Smart EV Irrigation Scheduler",
+  "content_in_root": false,
+  "domains": ["auto_smart_ev_irrigation_scheduler"],
+  "iot_class": "Cloud Polling",
+  "render_readme": true,
+  "country": ["US", "GB", "CA"],
+  "zip_release": false,
+  "filename": "auto_smart_ev_irrigation_scheduler.zip"
+}
