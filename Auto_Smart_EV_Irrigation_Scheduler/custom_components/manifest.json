@@ -1,0 +1,11 @@
+{
+  "domain": "auto_smart_ev_irrigation_scheduler",
+  "name": "Auto Smart EV Irrigation Scheduler",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Electrostud/Auto_Smart_EV_Irrigation_Scheduler",
+  "requirements": ["requests"],
+  "dependencies": [],
+  "codeowners": ["@Electrostud"],
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}
